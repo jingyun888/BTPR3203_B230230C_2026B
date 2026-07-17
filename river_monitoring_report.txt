@@ -1,0 +1,6 @@
+Sungai Klang KL, Selangor, 68.3, Class III (Moderately Polluted)
+Sungai Muar, Johor, 88.8, Class II (Slightly Polluted)
+Sungai Skudai, Johor, 48.2, Class IV (Polluted)
+Sungai Pinang, Penang, 28.5, Class V (Heavily Polluted)
+Sungai Perak, Perak, 94.0, Class I (Clean)
+SUNGAI JB, JOHOR, 66.6, Class III (Moderately Polluted)
